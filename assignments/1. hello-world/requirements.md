@@ -1,7 +1,7 @@
 ## Hello World!
   1. Make a index.html
-  2. Prompt message "Enter You Name"
-  3. Store the vlaue in a variable
+  2. Prompt message "Enter Your Name"
+  3. Store the value in a variable
   4. Alert the value like this `Good Morining John`
 
 Implement it using internal and external JavaScript. Use the two folders with name `internal` and `external` for the files you want to create.
